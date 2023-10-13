@@ -3,10 +3,10 @@
 - 🔭 I'm 24, Oklahoma-based, dreaming of more RAM and relocating near a big red hanging bridge
 - 🌱 When I’m not submitting pull requests, I'm probably reading docs or taking notes on [Mastering PostCSS](https://github.com/PacktPublishing/Mastering-PostCSS-for-Web-Design)
 - 👯 I am always thrilled to get coffee, hit the gym, or work together on some [interesting things](https://claycurry.com/#interests)
-- 📫 Want to hire me? How to reach me: [website](https://claycurry.com).
+- 📫 Want to get in touch? [My email is on my website](https://claycurry.com).
 <br>
 
-- ⚡ Fun fact: I'm graduating in two months with my degree in CS, but I completed my homework about two weeks ago. 
+- ⚡ Fun fact: I'm graduating in two months with my CS degree.
 - 😄 Pronouns: he / him
 
 
