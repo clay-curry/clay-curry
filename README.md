@@ -2,11 +2,11 @@
 
 - 🔭 I'm 24, Oklahoma-based, dreaming of more RAM and relocating near a big red hanging bridge
 - 🌱 When I’m not submitting pull requests, I'm probably reading docs or taking notes on [Mastering PostCSS](https://github.com/PacktPublishing/Mastering-PostCSS-for-Web-Design)
-- 👯 I am always thrilled to get coffee, hit the gym, or work together on [somthing interesting](https://claycurry.com/#interests)
-- 📫 Want to get in touch? [My email is on my website](https://claycurry.com).
+- 👯 I am always thrilled to get coffee, hit the gym, or work together on [something interesting](https://claycurry.com/#interests)
+- 📫 Want to get in touch? [My email is easy to remember](mailto:me@claycurry.com).
 <br>
 
-- ⚡ Fun fact: I'm graduating in two months with my CS degree.
+- ⚡ Fun fact: camelCase is objectively better
 - 😄 Pronouns: he / him
 
 
