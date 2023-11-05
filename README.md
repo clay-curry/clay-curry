@@ -6,7 +6,7 @@
 - 📫 Want to get in touch? [My email is easy to remember](mailto:me@claycurry.com).
 <br>
 
-- ⚡ Activist for tabs over spaces
+- ⚡ Unpassionate advocate for tabs over spaces
 - 😄 Pronouns: he / him 🌈
 
 
