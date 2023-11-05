@@ -6,8 +6,8 @@
 - 📫 Want to get in touch? [My email is easy to remember](mailto:me@claycurry.com).
 <br>
 
-- ⚡ Fun fact: camelCase is objectively better
-- 😄 Pronouns: he / him
+- ⚡ Activist for tabs over spaces
+- 😄 Pronouns: he / him 🌈
 
 
 <!--
