@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm 24, Oklahoma-based, dreaming of more RAM and relocating near a big red hanging bridge
-- 🌱 When I’m not submitting pull requests, I'm probably reading docs or taking notes on [Mastering PostCSS](https://github.com/PacktPublishing/Mastering-PostCSS-for-Web-Design)
+- 🌱 If I seem be taking a break from pull requests, then I'm either breaking someone else's code to understand it, or I'm doing some reps with theory because future Clay will thank me later
 - 👯 I am always thrilled to get coffee, hit the gym, or work together on [something interesting](https://claycurry.com/#interests)
 - 📫 Want to get in touch? [My email is easy to remember](mailto:me@claycurry.com).
 <br>
