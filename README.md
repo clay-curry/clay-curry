@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I'm 24, Oklahoma-based, dreaming of more RAM and relocating near a big red hanging bridge
-- 👯 Got a hard problem involving the [deeper questions](https://claycurry.com/#interests), 
+- 👯 Imagine me casually sauntering to the edge of mathematics and formal language theory, not out of a thirst for truth but a gratification to arrive to some impossible future where all things dull or mundane to me can finally be outsourced to a background process.
+
+- My delight [deepest question](https://claycurry.com/#interests) 
 - 📫 Want to get in touch? [My email is easy to remember](mailto:me@claycurry.com).
 <br>
 
