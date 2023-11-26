@@ -2,8 +2,6 @@
 
 - I'm 24, Oklahoma-based, dreaming of more RAM and building compilers near San Jose
 
-<br>
-
 ### Experience 
 - Formerly (2 years) Linux System Administrator @ University of Oklahoma:
   - 🔭 [Dept of Physics & Astronomy](https://physics.ou.edu) and
@@ -21,11 +19,12 @@
 
 ## Want to get in touch? 
 - 📬 [reach me@claycurry.com](mailto:me@claycurry.com).
-<br>
 
 
 
 ### More Info
+
+
 [^1]: [Encyclopedia of Math](https://encyclopediaofmath.org/) \
 [^2]: [LLVM](https://llvm.org/)
 
