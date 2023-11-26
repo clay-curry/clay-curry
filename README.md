@@ -9,7 +9,12 @@
 
 - B.S. in Computer Science, minors in chemistry and mathematics
 
-- Knowledgable in:
+- Programming languages:
+  - First: AppleScript Editor
+  - Favorite: Zig
+  - Most Experienced: JavaScript, Python, C++
+
+- Programing experience (work + side + academic projects):
   - jit languages (Java, Python, Maven, Pip, Conda), 
   - aot languages (C, C++, Zig, Make, CMake, STL, zlib, gxx, clang),
   - Python Frameworks (Pytorch, Pytorch Lightning, TensorFlow, Keras), 
@@ -18,8 +23,8 @@
   - SQL dialects (Lite, Server), 
   - Shell Languages (Bash, PowerShell, Vim, git), 
   - operating systems (syscalls, Windows, MacOS, Ubuntu, Debian, Fedora), 
-  - architectures (x86, ARM, 
-  - application programming (Excel Visual Basic for Applications)
+  - architectures (x86, arm64)
+  - applications (Excel Visual Basic for Applications)
 
 - OSS contributor:
   - [Bun](https://github.com/oven-sh/bun)
