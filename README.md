@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I'm 24, Oklahoma-based, dreaming of more RAM and building compilers near San Jose
+- I'm 24, Oklahoma-based, dreaming of more RAM and building compilers near San Francisco
 
 ### Experience 
 - Formerly (2 years) Linux System Administrator @ University of Oklahoma:
