@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - I'm 24, Oklahoma-based, dreaming of more RAM and building compilers near San Jose
 
@@ -19,13 +19,13 @@
 
 <br>
 
-### Want to get in touch? 
+## Want to get in touch? 
 - 📬 [reach me@claycurry.com](mailto:me@claycurry.com).
 <br>
 
 
 
-## More Info
+### More Info
 [^1]: [Encyclopedia of Math](https://encyclopediaofmath.org/) \
 [^2]: [LLVM](https://llvm.org/)
 
