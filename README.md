@@ -9,6 +9,8 @@
 
 - B.S. in Computer Science, minors in chemistry and mathematics
 
+- Programming in Java (Maven), Python (Pip, Conda), Python Frameworks (Pytorch, Pytorch Lightning, TensorFlow, Keras), C (++, Make, CMake, STL, gxx, clang), HTML/CSS/JS (Bun, Node, Browser Extensions), Web Frameworks (React, Vue, PostCSS, SASS, LESS, StoryBoard), SQL (Lite, Server), Shell (Bash, PowerShell, Vim, git), and numerous operating systems (syscalls, Windows, MacOS, Ubuntu, Debian, Fedora), architectures (x86, ARM)
+
 - OSS contributor:
   - [Bun](https://github.com/oven-sh/bun)
   - [Zigup](https://github.com/marler8997/zigup)
