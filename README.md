@@ -11,7 +11,7 @@
 
 - OSS contributor:
   - [Bun](https://github.com/oven-sh/bun)
-  - [Zigup]
+  - [Zigup](https://github.com/marler8997/zigup)
   - [Pytorch Lightning]
   - 
 
