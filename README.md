@@ -15,11 +15,11 @@
   - Experienced (> 2 years regular use): JavaScript, Python, C++
 
 - Programing experience (work + side + academic projects):
-  - jit languages (Java, Python, Maven, Pip, Conda), 
-  - aot languages (C, C++, Zig, Make, CMake, STL, zlib, gxx, clang),
+  - jit languages (Java, Python, JavaScript, Maven, Pip, Conda), 
+  - aot languages (C, C++, Zig, TypeScript, Make, CMake, STL, zlib, gxx, clang),
   - Python Frameworks (Pytorch, Pytorch Lightning, TensorFlow, Keras), 
-  - HTML/CSS/JS (Bun, Node, Browser, npm, yarn, pnpm), 
-  - Web Frameworks (React, TypeScript, JSX, NextJS, Webpack, Vue, PostCSS, SASS, LESS, StoryBoard), 
+  - HTML/CSS/JS (Bun, Node, Browser, npm, yarn, pnpm, SASS, LESS), 
+  - Web Frameworks (React, TypeScript, JSX, NextJS, Webpack, Vue, PostCSS, StoryBoard), 
   - SQL dialects (Lite, Server), 
   - Shell Languages (Bash, PowerShell, Vim, git), 
   - operating systems (syscalls, Windows, MacOS, Ubuntu, Debian, Fedora), 
