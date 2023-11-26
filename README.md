@@ -9,7 +9,18 @@
 
 - B.S. in Computer Science, minors in chemistry and mathematics
 
-- Programming in Java (Maven), Python (Pip, Conda), Python Frameworks (Pytorch, Pytorch Lightning, TensorFlow, Keras), C (++, Make, CMake, STL, gxx, clang), HTML/CSS/JS (Bun, Node, Browser Extensions), Web Frameworks (React, Vue, PostCSS, SASS, LESS, StoryBoard), SQL (Lite, Server), Shell (Bash, PowerShell, Vim, git), and numerous operating systems (syscalls, Windows, MacOS, Ubuntu, Debian, Fedora), architectures (x86, ARM)
+- Programming in:
+  - Java (Maven), 
+  - Python (Pip, Conda), 
+  - Python Frameworks (Pytorch, Pytorch Lightning, TensorFlow, Keras), 
+  - aot compiled languages (C, C++, Zig, Make, CMake, STL, gxx, clang), 
+  - HTML/CSS/JS (Bun, Node, Browser Extensions), 
+  - Web Frameworks (React, TypeScript, JSX, Vue, PostCSS, SASS, LESS, StoryBoard), 
+  - SQL (Lite, Server), 
+  - Shell (Bash, PowerShell, Vim, git), 
+  - numerous operating systems (syscalls, Windows, MacOS, Ubuntu, Debian, Fedora), 
+  - numerous architectures (x86, ARM, 
+  - numerous applications (Excel Visual Basic for Applications)
 
 - OSS contributor:
   - [Bun](https://github.com/oven-sh/bun)
