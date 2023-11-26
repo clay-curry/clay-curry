@@ -11,7 +11,7 @@
 
 - B.S. in Computer Science, minors in chemistry and mathematics
 
-- open source software contributor:
+- OSS contributor:
   - [Bun](https://github.com/oven-sh/bun)
   - [Zigup]
   - [Pytorch Lightning]
