@@ -4,7 +4,7 @@
 
 ### Experience 
 - Formerly (2 years) Linux System Administrator @ University of Oklahoma:
-  - 🔭 [Dept of Physics & Astronomy](https://physics.ou.edu) (10 months)
+  - 🔭 [Dept of Physics & Astronomy](http://physics.ou.edu) (10 months)
   - 👾 [School of Computer Science](https://cs.ou.edu) (13 months)
 
 - B.S. in Computer Science, minors in chemistry and mathematics
