@@ -12,7 +12,7 @@
 - Programming languages:
   - First: AppleScript Editor
   - Favorite: Zig
-  - Most Experienced: JavaScript, Python, C++
+  - Experienced (> 2 years regular use): JavaScript, Python, C++
 
 - Programing experience (work + side + academic projects):
   - jit languages (Java, Python, Maven, Pip, Conda), 
