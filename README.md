@@ -3,11 +3,11 @@
 <table border="0">
  <tr>
     <td><b style="font-size:30px">I'm 24, Oklahoma-based, dreaming of more RAM and building compilers near San Francisco</b></td>
-    <td><b style="font-size:30px"> ![PerfectHash](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent) </b></td>
+    <td><b style="font-size:30px"> </b></td>
  </tr>
 </table>
 
-
+![PerfectHash](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent) 
 
 ### Experience 
 - Formerly (2 years) Linux System Administrator @ University of Oklahoma:
