@@ -9,7 +9,7 @@
 
 # About Me
 
-I am currently an undergraduate student in computer science on the cusp of graduation (in just two weeks) with a solid foundation in theory of computation and over two years of experience tinkering with open-source software frameworks and diagnosing/resolving system administrative issues for HPC-oriented end users. I am actively looking for opportunities to work on ambitious projects that are not just technically exciting but also carry a meaningful impact by catalyzing innovation via improved developer operations. 
+I am currently an undergraduate student in computer science on the cusp of graduation (in just two weeks) with a solid foundation in theory of computation and over two years of experience tinkering with open-source software frameworks and diagnosing/resolving system administrative issues for HPC-oriented end users. I am actively looking for opportunities to work on ambitious projects that are not just technically exciting but also carry a meaningful impact by catalyzing innovation for decades to come.
 
 ### Experience 
 
@@ -40,10 +40,4 @@ I am currently an undergraduate student in computer science on the cusp of gradu
 ## Want to get in touch? 
 - 🧑 Visit [my personal website](https://claycurry.com) for socials, or
 - 📬 reach me by email at [me@claycurry.com](mailto:me@claycurry.com).
-
-
-[^1]: [Encyclopedia of Math](https://encyclopediaofmath.org/) \
-[^2]: [LLVM](https://llvm.org/)
-
-<!--! [B3 JIT Compiler](https://webkit.org/blog/5852/introducing-the-b3-jit-compiler/) -->
   
