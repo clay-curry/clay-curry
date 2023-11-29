@@ -3,7 +3,7 @@
 <table border="0">
  <tr>
     <td><b style="font-size:30px">I'm 24, Oklahoma-based, dreaming of more RAM and building compilers near San Francisco</b></td>
-    <td><b style="font-size:30px"> [![PerfectHash](https://github-readme-stats.vercel.app/api?username=clay-curry)](https://github.com/tpn/perfecthash) </b></td>
+    <td><b style="font-size:30px"> ![PerfectHash](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent) </b></td>
  </tr>
 </table>
 
