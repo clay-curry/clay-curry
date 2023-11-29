@@ -41,11 +41,8 @@ I am currently an undergraduate student in computer science on the cusp of gradu
 <br>
 
 ## Want to get in touch? 
-- 📬 [reach me@claycurry.com](mailto:me@claycurry.com).
-
-
-
-### More Info
+- 🧑 Visit [my personal website](https://claycurry.com) for socials, or
+- 📬 reach me by email at [me@claycurry.com](mailto:me@claycurry.com).
 
 
 [^1]: [Encyclopedia of Math](https://encyclopediaofmath.org/) \
