@@ -7,10 +7,12 @@
 </table>
 
 
+# About Me
+
+I am currently an undergraduate student in computer science on the cusp of graduation (in just two weeks), bringing solid foundation in theory of computation, systems-level programming, and modern open-source software frameworks. I am actively looking for opportunities to work on ambitious projects that are not just technically exciting but also carry a meaningful impact by catalyzing innovation via improved developer operations. 
 
 ### Experience 
 
-I am currently an undergraduate student in computer science on the cusp of graduation (in just two weeks), bringing solid foundation in theory of computation, systems-level programming, and modern open-source software frameworks. I am actively looking for opportunities to work on ambitious projects that are not just technically exciting but also carry a meaningful impact by catalyzing innovation via improved developer operations. 
 
 - Formerly (2 years) Linux System Administrator @ University of Oklahoma:
   - 🔭 [Dept of Physics & Astronomy](https://ou.edu/cas/physics-astronomy) (10 months)
