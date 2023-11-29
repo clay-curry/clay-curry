@@ -13,7 +13,6 @@ I am currently an undergraduate student in computer science on the cusp of gradu
 
 ### Experience 
 
-
 - Formerly (2 years) Linux System Administrator @ University of Oklahoma:
   - 🔭 [Dept of Physics & Astronomy](https://ou.edu/cas/physics-astronomy) (10 months)
   - 👾 [School of Computer Science](https://cs.ou.edu) (13 months)
@@ -37,8 +36,6 @@ I am currently an undergraduate student in computer science on the cusp of gradu
   - operating systems ([syscalls](https://man7.org/linux/man-pages/man2/syscalls.2.html), [Windows](https://www.microsoft.com/en-us/windows), [MacOS](https://www.apple.com/macos/big-sur/), [Ubuntu](https://ubuntu.com/), [Debian](https://www.debian.org/), [Fedora](https://getfedora.org/)), 
   - architectures ([x86](https://en.wikipedia.org/wiki/X86), [arm64](https://developer.arm.com/architectures/cpu-architecture/a64)),
   - applications ([Excel Visual Basic for Applications](https://docs.microsoft.com/en-us/office/vba/api/overview/excel))
-
-<br>
 
 ## Want to get in touch? 
 - 🧑 Visit [my personal website](https://claycurry.com) for socials, or
