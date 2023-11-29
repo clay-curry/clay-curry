@@ -9,7 +9,7 @@
 
 # About Me
 
-I am currently an undergraduate student in computer science on the cusp of graduation (in just two weeks) with a solid foundation in theory of computation and over two years of experience tinkering with open-source software frameworks and diagnosing/resolving system administrative issues for HPC-oriented end users. I am actively looking for opportunities to work on ambitious projects that are not just technically exciting but also carry a meaningful impact by catalyzing innovation for decades to come.
+I am an undergraduate student in computer science on the cusp of graduation (in just two weeks) with a solid foundation in theory of computation and over two years of experience tinkering with open-source software frameworks and diagnosing/resolving system administrative issues for HPC-oriented end users. I am actively looking for opportunities to work on ambitious projects that are not just technically exciting but also carry a meaningful impact by catalyzing innovation for decades to come.
 
 ### Experience 
 
