@@ -1,15 +1,17 @@
 ## Hi there 👋
 
-<table border="0">
+<table style="border:none">
  <tr>
-    <td style="width:20px;">I'm 24, Oklahoma-based, dreaming of more RAM and building compilers near San Francisco</td>
-    <td></td>
+    <td style="width:20px;"><b>Welcome to my GitHub. Lets build something remarkable!<td><p data-sourcepos="10:1-10:140" dir="auto"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/3d0c1461a2e21263728c3f718aae815a5595186a07d5a91a82987a7852e152bb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d636c61792d6375727279" alt="Clay's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=clay-curry" style="max-width: 100%;"></a></p></td>
  </tr>
 </table>
 
-[![Clay's GitHub stats](https://github-readme-stats.vercel.app/api?username=clay-curry)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Experience 
+
+I am currently an undergraduate student in computer science on the cusp of graduation (in just two weeks), bringing solid foundation in theory of computation, modern software frameworks, and systems-level programming. I am actively looking for opportunities to work on ambitious projects that are not just technically exciting but also carry a meaningful impact by catalyzing innovation via improved developer operations. 
+
 - Formerly (2 years) Linux System Administrator @ University of Oklahoma:
   - 🔭 [Dept of Physics & Astronomy](https://ou.edu/cas/physics-astronomy) (10 months)
   - 👾 [School of Computer Science](https://cs.ou.edu) (13 months)
@@ -17,8 +19,8 @@
 - B.S. in Computer Science, minors in chemistry and mathematics
 
 - Programming languages:
-  - First: AppleScript Editor
   - Favorite: [Zig](https://ziglang.org/)
+  - First: [AppleScript Editor](https://support.apple.com/guide/script-editor/welcome/mac)
   - Experienced (> 2 years regular use): [JavaScript](https://bun.sh), [Python](https://https://docs.python.org/), [C++](https://llvm.org/)
 
 - Programing experience (work + side + academic projects):
@@ -33,12 +35,6 @@
   - operating systems ([syscalls](https://man7.org/linux/man-pages/man2/syscalls.2.html), [Windows](https://www.microsoft.com/en-us/windows), [MacOS](https://www.apple.com/macos/big-sur/), [Ubuntu](https://ubuntu.com/), [Debian](https://www.debian.org/), [Fedora](https://getfedora.org/)), 
   - architectures ([x86](https://en.wikipedia.org/wiki/X86), [arm64](https://developer.arm.com/architectures/cpu-architecture/a64)),
   - applications ([Excel Visual Basic for Applications](https://docs.microsoft.com/en-us/office/vba/api/overview/excel))
-
-- OSS contributor:
-  - [Bun](https://github.com/oven-sh/bun)
-  - [Zigup](https://github.com/marler8997/zigup)
-  - [Pytorch Lightning](https://lightning.ai/docs/pytorch/stable/)
-  - misc. documentation typos
 
 <br>
 
