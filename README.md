@@ -10,11 +10,11 @@ I am an undergraduate student in computer science on the cusp of graduation (in 
 
 ### Experience 
 
+- B.S. in Computer Science, minors in chemistry and mathematics
+
 - Formerly (2 years) Linux System Administrator @ University of Oklahoma:
   - 🔭 [Dept of Physics & Astronomy](https://ou.edu/cas/physics-astronomy) (10 months)
   - 👾 [School of Computer Science](https://cs.ou.edu) (13 months)
-
-- B.S. in Computer Science, minors in chemistry and mathematics
 
 - Programming languages:
   - Favorite: [Zig](https://ziglang.org/)
