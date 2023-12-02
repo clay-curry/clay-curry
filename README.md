@@ -6,7 +6,7 @@ Welcome to my GitHub. Below you will find a number of topics and projects to hav
 
 # About Me
 
-I am an undergraduate student in computer science on the cusp of graduation (in just 14 more days), and (if my contribution calendar hasn't spoiled the surprise) I am fascinated by meaningful, abitious, and technically-exciting open-source projects.  I am actively looking for opportunities to work alongside equally obsessived tinkerers and builders.
+I am an undergraduate student in computer science on the cusp of graduation (in just 14 more days), and (if my contribution calendar hasn't spoiled the surprise) I am fascinated by meaningful, abitious, and technically-exciting open-source projects that seek to push the capabiliteis of computers to better align with how people think.  I am actively looking for opportunities to work alongside equally obsessived tinkerers and builders.
 
 ### Experience 
 
