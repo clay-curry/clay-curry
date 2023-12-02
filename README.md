@@ -2,14 +2,14 @@
 
 <table style="border:none">
  <tr>
-    <td style="width:20px;"><b>Welcome to my GitHub. Lets build something remarkable!<td><p data-sourcepos="10:1-10:140" dir="auto"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/3d0c1461a2e21263728c3f718aae815a5595186a07d5a91a82987a7852e152bb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d636c61792d6375727279" alt="Clay's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=clay-curry" style="max-width: 100%;"></a></p></td>
+    <td style="width:20px;"><b>Welcome to my GitHub. Here I have arranged a number of topics and projects to have allured my highest interest over the years. !<td><p data-sourcepos="10:1-10:140" dir="auto"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/3d0c1461a2e21263728c3f718aae815a5595186a07d5a91a82987a7852e152bb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d636c61792d6375727279" alt="Clay's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=clay-curry" style="max-width: 100%;"></a></p></td>
  </tr>
 </table>
 
 
 # About Me
 
-I am an undergraduate student in computer science on the cusp of graduation (in just two weeks) with a solid foundation in theory of computation, over two years of experience tinkering with open-source software frameworks, and over two years of experience diagnosing/resolving system administrative issues for HPC-oriented end users. I am actively looking for opportunities to work on ambitious projects that are not just technically exciting but also carry a meaningful impact by catalyzing innovation for decades to come.
+I am an undergraduate student in computer science on the cusp of graduation (in just two weeks), and (if my contribution calendar hasn't spoiled the surprise) I am fascinated by meaningful, abitious, and technically-exciting open-source projects.  I am actively looking for opportunities to work alongside equally obsessived tinkerers and builders.
 
 ### Experience 
 
