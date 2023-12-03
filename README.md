@@ -2,7 +2,12 @@
 
 Welcome to my GitHub. Below you will find a number of topics and projects that I have been fortunate to lose sleep over.
 
-<p data-sourcepos="10:1-10:140" dir="auto"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/3d0c1461a2e21263728c3f718aae815a5595186a07d5a91a82987a7852e152bb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d636c61792d6375727279" alt="Clay's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=clay-curry" style="max-width: 100%;"></a></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=clay-curry" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=clay-curry&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 # About Me
 
