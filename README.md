@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub. Below you will find a number of topics and projects that I have been fortunate to lose sleep over.
+Welcome to my GitHub. My profile is a catalog of many different topics and projects that I have been fortunate to lose sleep over.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=clay-curry" />
@@ -11,11 +11,11 @@ Welcome to my GitHub. Below you will find a number of topics and projects that I
 
 # About Me
 
-I am an undergraduate student in computer science on the cusp of graduation (in just 13 more days), and (if my contribution calendar wasn't enough) I am fascinated by abitious and technically-exciting open-source projects that push the capabilites of computers to better align with how people think.  I am actively looking for opportunities to work alongside equally obsessived tinkerers and builders.
+I am an undergraduate student in computer science on the cusp of graduation, and (if my contribution calendar wasn't enough) I am fascinated by abitious and technically-exciting open-source projects that push the capabilites of computers to better align with how people think.  I am actively looking for opportunities to work alongside equally obsessived tinkerers and builders.
 
 ### Experience 
 
-- B.S. in Computer Science, minors in chemistry and mathematics
+- B.S. in Computer Science, minors in chemistry and mathematics (in 12 more days)
 
 - Formerly (2 years) Linux System Administrator @ University of Oklahoma:
   - 🔭 [Dept of Physics & Astronomy](https://ou.edu/cas/physics-astronomy) (10 months)
