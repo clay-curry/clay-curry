@@ -11,7 +11,7 @@ Welcome to my GitHub. My profile is a catalog of many different topics and proje
 
 # About Me
 
-I am an undergraduate student in computer science on the cusp of graduation, and (if my contribution calendar wasn't enough) I am fascinated by abitious and technically-exciting open-source projects that push the capabilites of computers to better align with how people think.  I am actively looking for opportunities to work alongside equally obsessived tinkerers and builders.
+I am an undergraduate student in computer science on the cusp of graduation, and I am fascinated by abitious and technically-exciting open-source projects that push the capabilites of computers to better align with how people think.  I am actively looking for opportunities to work alongside equally obsessived tinkerers and builders.
 
 ### Experience 
 
