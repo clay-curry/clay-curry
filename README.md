@@ -15,7 +15,7 @@ I am an undergraduate student in computer science on the cusp of graduation, and
 
 ### Experience 
 
-- B.S. in Computer Science, minors in chemistry and mathematics (in 12 more days)
+- B.S. in Computer Science, minors in chemistry and mathematics (in 10 more days)
 
 - Formerly (2 years) Linux System Administrator @ University of Oklahoma:
   - 🔭 [Dept of Physics & Astronomy](https://ou.edu/cas/physics-astronomy) (10 months)
