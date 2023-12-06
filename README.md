@@ -24,7 +24,7 @@ I am an undergraduate student in computer science on the cusp of graduation, and
 - Programming languages:
   - Favorite language: [INTERCAL](https://en.wikipedia.org/wiki/INTERCAL)
   - First language learned: [AppleScript Editor](https://support.apple.com/guide/script-editor/welcome/mac)
-  - Most recent language learned: [CodeQL](https://codeql.github.com/)
+  - Most recent language learned: [CodeQL](https://codeql.github.com/) (["variant analysis"](https://www.youtube.com/watch?v=31UD57d5Qdw) is way cooler than security) 
 - Programing experience (work + side + academic projects):
   - jit languages ([Java](https://www.java.com/), [Python](https://docs.python.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)),
   - aot languages ([C/C++](https://en.cppreference.com/w/), [Zig](https://ziglang.org/), [TypeScript](https://www.typescriptlang.org/)),
