@@ -22,9 +22,9 @@ I am an undergraduate student in computer science on the cusp of graduation, and
   - 👾 [School of Computer Science](https://cs.ou.edu) (13 months)
 
 - Programming languages:
-  - Favorite: [INTERCAL](https://en.wikipedia.org/wiki/INTERCAL)
-  - First: [AppleScript Editor](https://support.apple.com/guide/script-editor/welcome/mac)
-  - Experienced (> 2 years regular use): [JavaScript](https://bun.sh), [Python](https://https://docs.python.org/), [C++](https://llvm.org/)
+  - Favorite language: [INTERCAL](https://en.wikipedia.org/wiki/INTERCAL)
+  - First language learned: [AppleScript Editor](https://support.apple.com/guide/script-editor/welcome/mac)
+  - Most recent language learned: [CodeQL](https://codeql.github.com/)
 
 - Programing experience (work + side + academic projects):
   - jit languages ([Java](https://www.java.com/), [Python](https://docs.python.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)),
