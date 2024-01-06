@@ -11,11 +11,11 @@ Welcome to my GitHub. My profile is a catalog of many different topics and proje
 
 # About Me
 
-I am an undergraduate student in computer science on the cusp of graduation, and I am fascinated by abitious and technically-exciting open-source projects that push the capabilites of computers to better align with how people think.  I am actively looking for opportunities to work alongside equally obsessived tinkerers and builders.
+I am a budding software engineer, and I am fascinated by abitious and technically-exciting open-source projects pushing the capabilities of computing machines both in degree and kind.  I am actively looking for opportunities to work alongside equally obsessived tinkerers and builders.
 
 ### Experience 
 
-- B.S. in Computer Science, minors in chemistry and mathematics (in 10 more days)
+- B.S. in Computer Science, minors in chemistry and mathematics
 
 - Formerly (2 years) Linux System Administrator @ University of Oklahoma:
   - 🔭 [Dept of Physics & Astronomy](https://ou.edu/cas/physics-astronomy) (10 months)
