@@ -11,7 +11,7 @@ Welcome to my GitHub. My profile is a catalog of many different topics and proje
 
 # About Me
 
-I am a budding software engineer, and I am fascinated by abitious and technically-exciting open-source projects pushing the capabilities of computing machines both in degree and kind.  I am actively looking for opportunities to work alongside equally obsessived tinkerers and builders.
+I am a budding software engineer drawn to abitious and technically-exciting open-source projects that push the capabilities of computing machines both in degree and kind. As a recent CS graduate, I am actively looking for opportunities to work alongside equally obsessived tinkerers and builders.
 
 ### Experience 
 
