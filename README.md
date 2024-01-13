@@ -2,12 +2,14 @@
 
 Welcome to my GitHub. My profile is a catalog of many different topics and projects that I have been fortunate to lose sleep over.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=clay-curry" />
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=55509500" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=55509500&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @clay-curry" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=55509500&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=clay-curry&layout=compact&langs_count=8&card_width=320" />
-</a>
+
 
 # About Me
 
