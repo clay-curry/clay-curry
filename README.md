@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am a budding web infrastructure engineer (open for hire) and an avid user and contributer to open source.
+[I](https://claycurry.com) am a budding Web Infra engineer (open for hire) and an avid user and contributer to open source.
+
+> recruiting? [let's talk](https://claycurry.com)!
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=55509500" target="_blank" style="display: block" align="center">
   <picture>
