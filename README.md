@@ -4,7 +4,8 @@ Greetings! I am a budding Web Infra engineer (open for hire) and an avid consume
 
 > are you recruiting? [let's talk](https://claycurry.com)!
 
-> crawling for my private info? [you're welcome](http://aaronhoyt.com/gfy.asp)
+> crawling my private information? [you're welcome](http://aaronhoyt.com/gfy.asp)
+ 
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=55509500" target="_blank" style="display: block" align="center">
   <picture>
