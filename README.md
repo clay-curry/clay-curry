@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub. My profile is a catalog of many different topics and projects that I have been fortunate to lose sleep over.
-
+I am a budding web infrastructure engineer (open for hire) and an avid user and contributer to open source.
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=55509500" target="_blank" style="display: block" align="center">
   <picture>
@@ -12,10 +11,6 @@ Welcome to my GitHub. My profile is a catalog of many different topics and proje
 
 
 # About Me
-
-I am a budding software engineer drawn to abitious and technically-exciting open-source projects that push the capabilities of computing machines both in degree and kind. As a recent CS graduate, I am actively looking for opportunities to work alongside equally obsessived tinkerers and builders.
-
-### Experience 
 
 - B.S. in Computer Science, minors in chemistry and mathematics
 
