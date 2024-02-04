@@ -4,7 +4,7 @@ Greetings! I am a budding Web Infra engineer (open for hire) and an avid consume
 
 > recruiting? [let's talk](https://claycurry.com)!
 
-> scraping my info? [heres my SSN](http://aaronhoyt.com/gfy.asp)
+> crawling for my personal info? [you're welcome](http://aaronhoyt.com/gfy.asp)
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=55509500" target="_blank" style="display: block" align="center">
   <picture>
