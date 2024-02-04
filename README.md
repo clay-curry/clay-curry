@@ -17,7 +17,9 @@ Greetings! I am a budding Web Infra engineer (open for hire) and an avid consume
 
 # About Me
 
-- B.S. in Computer Science, minors in chemistry and mathematics
+- B.S., Computer Science
+  - University of Oklahoma
+  - grad date: 12/2023
 
 - Formerly (2 years) Linux System Administrator @ University of Oklahoma:
   - 🔭 [Dept of Physics & Astronomy](https://ou.edu/cas/physics-astronomy) (10 months)
