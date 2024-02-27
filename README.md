@@ -9,9 +9,7 @@ Greetings! I am a budding software engineer (open for hire) interested in design
 
 - Homepage: [claycurry.com](https://claycurry.com)
 
-- B.S., Computer Science
-  - University of Oklahoma
-  - grad date: 12/2023
+- B.S., Computer Science, University of Oklahoma
 
 - Formerly (2 years) Linux System Administrator @ University of Oklahoma:
   - 🔭 [Dept of Physics & Astronomy](https://ou.edu/cas/physics-astronomy) (10 months)
