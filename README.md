@@ -5,7 +5,7 @@ Greetings! I am a budding software engineer (open for hire) interested in design
 > are you recruiting? [let's talk](mailto:me@claycurry.com)!
 
 
-# About Me
+## About Me
 
 - Homepage: [claycurry.com](https://claycurry.com)
 
@@ -19,7 +19,7 @@ Greetings! I am a budding software engineer (open for hire) interested in design
 
 - Selected Projects ([pinned below](#below))
 
-# Cool Things
+## Cool Things
 
 Call-stack shape for a computation based on tree-recursion. (image from [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf))
 <img src="https://github.com/clay-curry/clay-curry/blob/main/procedure-graph.png" alt="Call-stack shape for a computation based on tree-recursion" />
