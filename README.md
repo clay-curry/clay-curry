@@ -23,7 +23,7 @@ Greetings! I am a budding software engineer (open for hire) interested in design
 
 # Cool Things
 
-<img src="https://github.com/clay-curry/clay-curry/assets/procedure-graph.png" height="600" />
+<img src="https://github.com/clay-curry/clay-curry/blob/main/procedure-graph.png" alt="Call-stack shape for a computation based on tree-recursion" />
 
 Call-stack shape for a computation based on tree-recursion (image from [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf))
 <br><br>
