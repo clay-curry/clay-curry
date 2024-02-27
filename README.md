@@ -4,7 +4,6 @@ Greetings! I am a budding software engineer (open for hire) interested in design
 
 > are you recruiting? [let's talk](mailto:me@claycurry.com)!
 
-
 # About Me
 
 - Homepage: [claycurry.com](https://claycurry.com)
