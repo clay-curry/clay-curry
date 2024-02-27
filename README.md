@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Greetings! I am a budding software engineer (open for hire) interested in design, tooling, performance, runtimes, metaprogramming, and language construction. I'm also currently building [BundleGraph](https://bundlegraph/).
+Greetings! I am a budding software engineer (open for hire) interested in design, tooling, performance, runtimes, metaprogramming, and language construction.
 
 > are you recruiting? [let's talk](mailto:me@claycurry.com)!
 
@@ -16,9 +16,8 @@ Greetings! I am a budding software engineer (open for hire) interested in design
 - Formerly (2 years) Linux System Administrator @ University of Oklahoma:
   - 🔭 [Dept of Physics & Astronomy](https://ou.edu/cas/physics-astronomy) (10 months)
   - 👾 [School of Computer Science](https://cs.ou.edu) (13 months)
- 
-- Selected Demos
-  - [BundleGraph](https://github.com/clay-curry/bundlegraph)
+
+- Currently Building: [BundleGraph](https://bundlegraph/)
 
 - Selected Projects ([pinned below](#below))
 
