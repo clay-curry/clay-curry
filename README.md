@@ -21,7 +21,7 @@ Greetings! I am a budding software engineer interested in tooling, UI design, co
 
 ## Cool Things
 
-Call-stack shape for a computation based on tree-recursion. (image from [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf))
+Call-stack shape based on tree-recursion (screaming for memoization). (image from [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf))
 <img src="https://github.com/clay-curry/clay-curry/blob/main/procedure-graph.png" alt="Call-stack shape for a computation based on tree-recursion" width="500" />
 
 <br><br>
