@@ -22,29 +22,19 @@ Greetings! I am a budding software engineer (open for hire) interested in design
 ## Cool Things
 
 Call-stack shape for a computation based on tree-recursion. (image from [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf))
-<img src="https://github.com/clay-curry/clay-curry/blob/main/procedure-graph.png" alt="Call-stack shape for a computation based on tree-recursion" />
+<img src="https://github.com/clay-curry/clay-curry/blob/main/procedure-graph.png" alt="Call-stack shape for a computation based on tree-recursion" width="500" />
 
 <br><br>
 
 Reducing visual clutter of adjacency graph via hierarchical edge bundling. (image from [Hierarchical Edge Bundling](https://www.data-to-viz.com/graph/edge_bundling.html))
-<img src="https://github.com/clay-curry/clay-curry/blob/main/edge-bundling.png" alt="Reducing visual clutter of adjacency graph via hierarchical edge bundling." />
+<img src="https://github.com/clay-curry/clay-curry/blob/main/edge-bundling.png" alt="Reducing visual clutter of adjacency graph via hierarchical edge bundling." width="500" />
 
 
 <br><br>
 
 
 Contrast between the graphical structure of a render-tree and module dependency tree in React. (image from [Understanding Your UI as a Tree](https://react.dev/learn/understanding-your-ui-as-a-tree))
-<img src="https://github.com/clay-curry/clay-curry/blob/main/render-tree.png" alt="" />
-<img src="https://github.com/clay-curry/clay-curry/blob/main/dependency-tree.png" alt="" />
-
-
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=55509500" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=55509500&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @clay-curry" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=55509500&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
+<img src="https://github.com/clay-curry/clay-curry/blob/main/render-tree.png" alt="Render Tree" width="500" />
+<img src="https://github.com/clay-curry/clay-curry/blob/main/dependency-tree.png" alt="Dependency Tree" width="500" />
 
 #### below
