@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Greetings! I am a budding software engineer (open for hire) interested in design, tooling, performance, runtimes, metaprogramming, and language construction.
+Greetings! I am a budding software engineer (open for hire) interested in runtimes, tooling, functional programming, and reactive metaprogramming.
 
 > are you recruiting? [let's talk](mailto:me@claycurry.com)!
 
