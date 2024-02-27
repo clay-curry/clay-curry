@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Greetings! I am a budding software engineer (open for hire) interested in tooling, code refactoring, metaprogramming, and functional programming.
+Greetings! I am a budding software engineer (open for hire) interested in tooling, code refactoring, metaprogramming, and functional reactive programming.
 
 > are you recruiting? [let's talk](mailto:me@claycurry.com)!
 
