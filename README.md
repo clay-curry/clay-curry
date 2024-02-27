@@ -24,6 +24,8 @@ Greetings! I am a budding software engineer (open for hire) interested in design
 # Cool Things
 
 <img src="" data-canonical-src="assets/procedure-graph.png" height="400" />
+
+Call-stack shape for a computation based on tree-recursion (image from [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf))
  
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=55509500" target="_blank" style="display: block" align="center">
   <picture>
