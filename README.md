@@ -29,7 +29,7 @@ Call-stack shape for a computation based on tree-recursion. (image from [Structu
 <br><br>
 
 Reducing visual clutter of adjacency graph via hierarchical edge bundling. (image from [Hierarchical Edge Bundling](https://www.data-to-viz.com/graph/edge_bundling.html))
-<img src="https://github.com/clay-curry/clay-curry/blob/main/edge_bundling.png" alt="Reducing visual clutter of adjacency graph via hierarchical edge bundling." />
+<img src="https://github.com/clay-curry/clay-curry/blob/main/edge-bundling.png" alt="Reducing visual clutter of adjacency graph via hierarchical edge bundling." />
 
 
 <br><br>
