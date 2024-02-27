@@ -32,6 +32,13 @@ Reducing visual clutter of adjacency graph via hierarchical edge bundling. (imag
 
 <br><br>
 
+
+Contrast between the graphical structure of a render-tree and module dependency tree in React. (image from [Understanding Your UI as a Tree](https://react.dev/learn/understanding-your-ui-as-a-tree))
+<img src="https://github.com/clay-curry/clay-curry/blob/main/render-tree.png" alt="" />
+<img src="https://github.com/clay-curry/clay-curry/blob/main/dependency-tree.png" alt="" />
+
+
+
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=55509500" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=55509500&image_size=auto&color_scheme=dark" width="771" height="auto">
