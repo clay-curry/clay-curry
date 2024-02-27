@@ -23,11 +23,14 @@ Greetings! I am a budding software engineer (open for hire) interested in design
 
 # Cool Things
 
+Call-stack shape for a computation based on tree-recursion. (image from [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf))
 <img src="https://github.com/clay-curry/clay-curry/blob/main/procedure-graph.png" alt="Call-stack shape for a computation based on tree-recursion" />
 
-Call-stack shape for a computation based on tree-recursion (image from [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf))
 <br><br>
 
+Reducing visual clutter of adjacency graph via hierarchical edge bundling. (image from [Hierarchical Edge Bundling](https://www.data-to-viz.com/graph/edge_bundling.html))
+
+<br><br>
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=55509500" target="_blank" style="display: block" align="center">
   <picture>
