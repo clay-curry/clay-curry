@@ -37,4 +37,6 @@ Contrast between the graphical structure of a render-tree and module dependency 
 <img src="https://github.com/clay-curry/clay-curry/blob/main/render-tree.png" alt="Render Tree" width="500" />
 <img src="https://github.com/clay-curry/clay-curry/blob/main/dependency-tree.png" alt="Dependency Tree" width="500" />
 
+> I know something really magical is going on here, a fundamental algorithm bridging compilation, performance, composability, and primitives that conform to human intuition (not the needs of a CPU or most APIs). IF I'VE LEARNED ANYTHING about ideas, its that someone's likely already beaten me to it. If that's you, then consider me your biggest ally and [reach out](mailto:me@claycurry.com)!
+
 #### below
