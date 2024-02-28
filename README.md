@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Aloha, dearest colleagues and open source neighbors! 
+Aloha, potential colleagues and open source neighbors! 
 
 My name is Clay, and I'm casual software engineer with lots of love for tooling, refactoring, and framework observability. 
 
