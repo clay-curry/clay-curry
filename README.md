@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Greetings! I am a budding software engineer passionate about tooling in all matters involving scale.
+Greetings! I am a budding software engineer passionate about tooling, refactoring, and in all matters involving change at scale.
 
 > are you recruiting? [let's talk](mailto:me@claycurry.com)!
 
