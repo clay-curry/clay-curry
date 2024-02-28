@@ -6,6 +6,7 @@ My name is Clay, and I'm casual software engineer with lots of love for tooling,
 
 I view my ability to make things that lift up other builders to the greatest privledge imaginable; and if I knew of a better future, then I would build that instead. That said, if you are currently sitting on an idea for how to make that happen, then please [*fill me in*](mailto:me@claycurry.com)!
 
+Clay
 
 ## About Me
 
