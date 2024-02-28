@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Greetings, dearest colleagues and open source neighbors! I am a budding software engineer passionate about tooling, refactoring, and build system observability.
+Greetings, dearest colleagues and open source neighbors! I am a budding software engineer passionate about tooling, refactoring, and build observability.
 
 > are you recruiting? [let's talk](mailto:me@claycurry.com)!
 
