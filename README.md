@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Greetings! I am a budding software engineer interested in tooling, UI design, code refactoring, module bundlers, and functional programming.
+Greetings! I am a budding software engineer passionate about tooling in all matters involving scale.
 
 > are you recruiting? [let's talk](mailto:me@claycurry.com)!
 
