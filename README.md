@@ -2,7 +2,7 @@
 
 Aloha, dearest colleagues and open source neighbors! 
 
-My name is Clay, and I'm casual software engineer with lots of love for tooling, optimization, and framework observability. 
+My name is Clay, and I'm casual software engineer with lots of love for tooling, refactoring, and framework observability. 
 
 I am currently looking for open roles with companies in need of an extra coder. I consider my ability to lift up other builders to the greatest privledge imaginable; and if I knew of a better future, then I would build that instead.
 
