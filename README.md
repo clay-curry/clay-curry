@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-Greetings, dearest colleagues and open source neighbors! I am a budding software engineer passionate about tooling, refactoring, and framework observability. Why? Here's [my why](https://hashnode.com/@claycurry).
+Aloha, dearest colleagues and open source neighbors! My name is Clay, and I'm casual software engineer with lots of love for tooling, optimization, and framework observability. 
 
-> are you recruiting? [let's talk](mailto:me@claycurry.com)!
+I am currently looking for open roles with companies in need of an extra coder. I consider my ability to lift up other builders to the greatest privledge imaginable; and if I knew of a better future, then I would build that instead.
+
+> wanna team up? [let's talk](mailto:me@claycurry.com)!
 
 
 ## About Me
