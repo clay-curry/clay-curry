@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Greetings, dearest colleagues and open source neighbors! I am a budding software engineer passionate about tooling, refactoring, and framework observability.
+Greetings, dearest colleagues and open source neighbors! I am a budding software engineer passionate about tooling, refactoring, and framework observability. Why? Here's [my why](https://hashnode.com/@claycurry).
 
 > are you recruiting? [let's talk](mailto:me@claycurry.com)!
 
