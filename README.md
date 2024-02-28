@@ -22,7 +22,7 @@ Clay
 
 - Selected Projects ([pinned below](#below))
 
-## Cool Things
+## Currently on my Mind
 
 Call-stack shape based on tree-recursion (screaming for memoization). (image from [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf))
 
