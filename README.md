@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Aloha, potential colleagues and open source neighbors! 
+Aloha, colleagues and open source neighbors! 
 
 My name is Clay, and I'm a polyglot programmer with lots of love for tooling, refactoring, bundlers, and framework observability. 
 
