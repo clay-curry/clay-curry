@@ -2,7 +2,7 @@
 
 Aloha, colleagues and open source neighbors! 
 
-My name is Clay, and I'm a polyglot programmer giving back to the community in the form of tooling. 
+My name is Clay, and I've got a *guily* 😏 pleasure for software tools. 
 
 If you are looking to partner up on something, then please [*fill me in*](mailto:me@claycurry.com)!
 
