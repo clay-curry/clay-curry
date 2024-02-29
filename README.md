@@ -2,7 +2,7 @@
 
 Aloha, colleagues and open source neighbors! 
 
-My name is Clay, and I'm a polyglot programmer with lots of love for tooling, refactoring, bundlers, and framework observability.
+My name is Clay, and I'm a polyglot programmer currently building in the trenches of tooling, refactoring, bundlers, and dynamic architectures. 
 
 If you are looking to partner up on something, then please [*fill me in*](mailto:me@claycurry.com)!
 
