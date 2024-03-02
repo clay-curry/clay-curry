@@ -4,10 +4,6 @@ Aloha, colleagues and open source neighbors!
 
 My name is Clay, and I've got a *guily* 😏 pleasure for software tools. 
 
-If you are looking to partner up on something, then please [*fill me in*](mailto:me@claycurry.com)!
-
-Clay
-
 ## About Me
 
 - Homepage: [claycurry.com](https://claycurry.com)
@@ -18,8 +14,8 @@ Clay
   - 🔭 [Dept of Physics & Astronomy](https://ou.edu/cas/physics-astronomy) (10 months)
   - 👾 [School of Computer Science](https://cs.ou.edu) (13 months)
 
-- Currently Building: [BundleGraph](https://bundlegraph/)
-
+- Currently Building:
+ 
 - Selected Projects ([pinned below](#below))
 
 ## Currently on my Mind
