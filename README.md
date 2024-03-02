@@ -2,7 +2,7 @@
 
 Aloha, colleagues and open source neighbors! 
 
-My name is Clay, and I've got a *guily* pleasure for tooling, refactoring, and good abstractions 😏 
+My name is Clay, and I've got a *guily* pleasure for tooling, refactoring, and throwing away bad abstractions 😏 
 
 ## About Me
 
