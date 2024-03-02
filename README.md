@@ -9,7 +9,7 @@ My name is Clay, and I've got a *guily* 😏 pleasure for
 
 
 
-I tend to get bored and try new things
+I tend to get bored and try new things. 
 
 <!--
 Until i find a better resource, heres a pretty 
