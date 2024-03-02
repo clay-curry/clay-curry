@@ -2,7 +2,11 @@
 
 Aloha, colleagues and open source neighbors! 
 
-My name is Clay, and I've got a *guily* pleasure for tooling, refactoring, and abastraction mobility 😏 
+My name is Clay, and I've got a *guily* pleasure for 
+1. tooling,
+2. refactoring, and
+3. choosing right abstractions (esp. if that means more of 1.)
+😏 
 
 
 <!--
