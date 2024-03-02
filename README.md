@@ -4,6 +4,41 @@ Aloha, colleagues and open source neighbors!
 
 My name is Clay, and I've got a *guily* pleasure for tooling, refactoring, and abastraction mobility 😏 
 
+
+<!--
+Until i find a better resource, heres a pretty 
+Software tools come in many forms:
+Binary compatibility analysis tools
+Bug databases: Comparison of issue tracking systems – Including bug tracking systems
+Build tools: Build automation, List of build automation software
+Call graph
+Code coverage: Code coverage#Software code coverage tools.
+Code review: List of tools for code review
+Code sharing sites: Freshmeat, Krugle, SourceForge, GitHub. See also Code search engines.
+Compilation and linking tools: GNU toolchain, gcc, Microsoft Visual Studio, CodeWarrior, Xcode, ICC
+Debuggers: Debugger#List of debuggers. See also Debugging.
+Disassemblers: Generally reverse-engineering tools.
+Documentation generators: Comparison of documentation generators, help2man, Plain Old Documentation, asciidoc
+Formal methods: Mathematical techniques for specification, development and verification
+GUI interface generators
+Library interface generators: SWIG
+Integration Tools
+Memory debuggers are frequently used in programming languages (such as C and C++) that allow manual memory management and thus the possibility of memory leaks and other problems. They are also useful to optimize efficiency of memory usage. Examples: dmalloc, Electric Fence, Insure++, Valgrind
+Parser generators: Parsing#Parser development software
+Performance analysis or profiling: List of performance analysis tools
+Revision control: List of revision control software, Comparison of revision control software
+Scripting languages: PHP, AWK, Perl, Python, REXX, Ruby, Shell, Tcl
+Search: grep, find
+Source code Clones/Duplications Finding: Duplicate code#Tools
+Source code editor
+Text editors: List of text editors, Comparison of text editors
+Source code formatting: indent, pretty-printers, beautifiers, minifiers
+Source code generation tools: Automatic programming#Implementations
+Static code analysis: lint, List of tools for static code analysis
+Unit testing: List of unit testing frameworks
+IDEs
+-->
+
 ## About Me
 
 - Homepage: [claycurry.com](https://claycurry.com)
