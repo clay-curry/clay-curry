@@ -1,4 +1,4 @@
-## Hi there 👋
+## 💐
 
 Aloha, colleagues and open source neighbors! 
 
