@@ -1,12 +1,4 @@
-## 💐
-
-Aloha, colleagues and open source neighbors! 
-
-My name is Clay, and I've got a *guily* 😏 pleasure for 
-1. tooling,
-2. refactoring,
-3. choosing better abstractions
-
+## 
 
 
 I tend to get bored and try new things. 
