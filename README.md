@@ -47,7 +47,7 @@ IDEs
   - 🔭 [Dept of Physics & Astronomy](https://ou.edu/cas/physics-astronomy) (10 months)
   - 👾 [School of Computer Science](https://cs.ou.edu) (13 months)
 
-- Currently Building:
+- Currently Building: [module-federation-ui](https://github.com/clay-curry/module-federation-ui)
  
 - Selected Projects ([pinned below](#below))
 
