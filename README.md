@@ -1,7 +1,6 @@
 ## 
 
-
-I tend to get bored and try new things. 
+I often struggle to fail to try more by doing less.
 
 <!--
 Until i find a better resource, heres a pretty 
