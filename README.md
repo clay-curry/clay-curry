@@ -41,13 +41,13 @@ IDEs
 
 - Homepage: [claycurry.com](https://claycurry.com)
 
+- Currently Building: [module-federation-ui](https://github.com/clay-curry/module-federation-ui)
+
 - B.S., Computer Science, University of Oklahoma
 
 - Formerly (2 years) Linux System Administrator @ University of Oklahoma:
   - 🔭 [Dept of Physics & Astronomy](https://ou.edu/cas/physics-astronomy) (10 months)
   - 👾 [School of Computer Science](https://cs.ou.edu) (13 months)
-
-- Currently Building: [module-federation-ui](https://github.com/clay-curry/module-federation-ui)
  
 - Selected Projects ([pinned below](#below))
 
