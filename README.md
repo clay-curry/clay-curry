@@ -60,7 +60,7 @@ Call-stack based on tree-recursion (screaming for memoization). (image from [Str
 
 <br><br>
 
-Reducing visual clutter of adjacency graph via hierarchical edge bundling. (image from [Hierarchical Edge Bundling](https://www.data-to-viz.com/graph/edge_bundling.html))
+Reducing visual clutter of adjacency graph (i.e. control flow) via hierarchical edge bundling. (image from [Hierarchical Edge Bundling](https://www.data-to-viz.com/graph/edge_bundling.html))
 
 <br><br>
 
