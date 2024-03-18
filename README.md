@@ -1,6 +1,6 @@
 ## 
 
-I often struggle to fail to try more by doing less.
+I like modular programming, human computer interaction, and distributed programming
 
 <!--
 Until i find a better resource, heres a pretty 
