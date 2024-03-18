@@ -1,6 +1,6 @@
 ## 
 
-I like modular programming, human computer interaction, and distributed programming
+I like modular programming, distributed programming, and human computer interaction
 
 <!--
 Until i find a better resource, heres a pretty 
