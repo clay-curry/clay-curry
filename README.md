@@ -70,11 +70,13 @@ Reducing visual clutter of adjacency graph (i.e. control flow) via hierarchical 
 <br><br>
 
 
-Contrast between the graphical structure of a render-tree and module dependency tree in React. (image from [Understanding Your UI as a Tree](https://react.dev/learn/understanding-your-ui-as-a-tree))
+Contrast between the graphical structure of a render-tree (how engines "compute") and module dependency tree (how developers "compute") in React. (image from [Understanding Your UI as a Tree](https://react.dev/learn/understanding-your-ui-as-a-tree))
 
 <br><br>
 
 <img src="https://github.com/clay-curry/clay-curry/blob/main/render-tree.png" alt="Render Tree" width="500" />
 <img src="https://github.com/clay-curry/clay-curry/blob/main/dependency-tree.png" alt="Dependency Tree" width="500" />
+
+Let's solve it together!
 
 #### below
