@@ -1,8 +1,12 @@
 ## 
 
-I like modular programming, distributed programming, and human computer interaction
+Interests: design, standardization, modular / distributed programming, and human computer interaction.
 
 <!--
+Standards define what great looks like, setting consistent benchmarks for businesses and consumers alike — ensuring reliability, building trust, and simplifying choices.
+
+Making lives easier, safer and better.
+
 Until i find a better resource, heres a pretty 
 Software tools come in many forms:
 Binary compatibility analysis tools
