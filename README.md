@@ -1,6 +1,6 @@
 ## 
 
-Interests: design, standardization, modular / distributed programming, and human computer interaction.
+Interests: design, standardization, modular / systems programming, and human computer interaction.
 
 <!--
 Standards define what great looks like, setting consistent benchmarks for businesses and consumers alike — ensuring reliability, building trust, and simplifying choices.
