@@ -40,8 +40,6 @@ IDEs
 
 - Portfolio: [claycurry.com](https://claycurry.com)
 
-- B.S., Computer Science, University of Oklahoma
-
 - Formerly
   - Linux Sysadmin @ University of Oklahoma, [Dept of Physics & Astronomy](https://ou.edu/cas/physics-astronomy), [School of Computer Science](https://cs.ou.edu) (13 months)
   - Open Source
