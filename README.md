@@ -38,8 +38,6 @@ Unit testing: List of unit testing frameworks
 IDEs
 -->
 
-- Interests: design, standards, modular / systems programming, dynamic optimality, and human computer interaction.
-
 - Portfolio: [claycurry.com](https://claycurry.com)
 
 - B.S., Computer Science, University of Oklahoma
@@ -47,6 +45,8 @@ IDEs
 - Formerly
   - Linux Sysadmin @ University of Oklahoma, [Dept of Physics & Astronomy](https://ou.edu/cas/physics-astronomy), [School of Computer Science](https://cs.ou.edu) (13 months)
   - Open Source
+
+- Interests: design, standards, modular / systems programming, dynamic optimality, and human computer interaction.
 
 > To me, error analysis is the sweet spot for improvement.
 
