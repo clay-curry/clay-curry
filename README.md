@@ -1,9 +1,12 @@
 ## 
 
-Interests: design, standardization, modular / systems programming, dynamic optimality, reinforcement learning, and human computer interaction.
+Interested in: design, standards, modular / systems programming, dynamic optimality, and human computer interaction.
+
+> To me, error analysis is the sweet spot for improvement.
+
+> Standards define what great looks like, setting consistent benchmarks for businesses and consumers alike — ensuring reliability, building trust, and simplifying choices.
 
 <!--
-Standards define what great looks like, setting consistent benchmarks for businesses and consumers alike — ensuring reliability, building trust, and simplifying choices.
 
 Making lives easier, safer and better.
 
@@ -42,9 +45,7 @@ IDEs
 
 ## About Me
 
-- Homepage: [claycurry.com](https://claycurry.com)
-
-- Currently Building: [module-federation-ui](https://github.com/clay-curry/module-federation-ui)
+- Portfolio: [claycurry.com](https://claycurry.com)
 
 - B.S., Computer Science, University of Oklahoma
 
@@ -52,7 +53,7 @@ IDEs
   - 🔭 [Dept of Physics & Astronomy](https://ou.edu/cas/physics-astronomy) (10 months)
   - 👾 [School of Computer Science](https://cs.ou.edu) (13 months)
  
-- Selected Projects ([pinned below](#below))
+<!--
 
 ## Currently on my Mind
 
@@ -82,5 +83,7 @@ Contrast between the graphical structure of a render-tree (how engines "think") 
 <img src="https://github.com/clay-curry/clay-curry/blob/main/dependency-tree.png" alt="Dependency Tree" width="500" />
 
 Let's solve it together!
+
+-->
 
 #### below
