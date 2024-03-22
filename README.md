@@ -40,10 +40,6 @@ IDEs
 
 - Portfolio: [claycurry.com](https://claycurry.com)
 
-- Formerly
-  - Linux Sysadmin @ University of Oklahoma, [Dept of Physics & Astronomy](https://ou.edu/cas/physics-astronomy), [School of Computer Science](https://cs.ou.edu) (13 months)
-  - Open Source
-
 - Interests: design, standards, modular / systems programming, dynamic optimality, and human computer interaction.
 
 > To me, error analysis is the sweet spot for improvement.
