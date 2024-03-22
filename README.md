@@ -1,10 +1,5 @@
-## 
+## me
 
-Interested in: design, standards, modular / systems programming, dynamic optimality, and human computer interaction.
-
-> To me, error analysis is the sweet spot for improvement.
-
-> Standards define what great looks like, setting consistent benchmarks for businesses and consumers alike — ensuring reliability, building trust, and simplifying choices.
 
 <!--
 
@@ -43,15 +38,21 @@ Unit testing: List of unit testing frameworks
 IDEs
 -->
 
-## About Me
+- Interests: design, standards, modular / systems programming, dynamic optimality, and human computer interaction.
 
 - Portfolio: [claycurry.com](https://claycurry.com)
 
 - B.S., Computer Science, University of Oklahoma
 
-- Formerly (2 years) Linux System Administrator @ University of Oklahoma:
-  - 🔭 [Dept of Physics & Astronomy](https://ou.edu/cas/physics-astronomy) (10 months)
-  - 👾 [School of Computer Science](https://cs.ou.edu) (13 months)
+- Formerly
+  - Linux Sysadmin @ University of Oklahoma, [Dept of Physics & Astronomy](https://ou.edu/cas/physics-astronomy), [School of Computer Science](https://cs.ou.edu) (13 months)
+  - Open Source
+
+> To me, error analysis is the sweet spot for improvement.
+
+> In my opinion, no single design is apt to be optimal for everyone.
+
+> Standards define what great looks like, setting consistent benchmarks for businesses and consumers alike — ensuring reliability, building trust, and simplifying choices.
  
 <!--
 
