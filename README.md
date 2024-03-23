@@ -4,14 +4,14 @@
 
 - Interests: design, standards, modular / systems programming, dynamic optimality, and human computer interaction.
 
+
+
+<!--
 > To me, error analysis is the sweet spot for improvement.
 
 > In my opinion, no single design is apt to be optimal for everyone.
 
 > Standards define what great looks like, setting consistent benchmarks for businesses and consumers alike — ensuring reliability, building trust, and simplifying choices.
-
-
-<!--
 
 Making lives easier, safer and better.
 
@@ -80,7 +80,7 @@ Contrast between the graphical structure of a render-tree (how engines "think") 
 
 Let's solve it together!
 
+#### below
 -->
 
 
-#### below
