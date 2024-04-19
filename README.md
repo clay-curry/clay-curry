@@ -2,9 +2,7 @@
 
 - Portfolio: [claycurry.com](https://claycurry.com)
 
-- Interests: design, standards, modular / systems programming, dynamic optimality, and human computer interaction.
-
-
+- Interests: algorithms, graph theory, modular / systems programming, dynamic optimality, and human computer interaction.
 
 <!--
 > To me, error analysis is the sweet spot for improvement.
@@ -48,39 +46,46 @@ Unit testing: List of unit testing frameworks
 IDEs
 -->
 
- 
-<!--
 
-## Currently on my Mind
+## Art
 
-Call-stack based on tree-recursion (screaming for memoization). (image from [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf))
+<br>
 
-<br><br>
+Call-stack (screaming for memoization).
 
 <img src="https://github.com/clay-curry/clay-curry/blob/main/procedure-graph.png" alt="Call-stack shape for a computation based on tree-recursion" width="500" />
+
+(image from [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf))
 
 <br><br>
 
 Reducing visual clutter of adjacency graph (i.e. control flow) via hierarchical edge bundling. (image from [Hierarchical Edge Bundling](https://www.data-to-viz.com/graph/edge_bundling.html))
 
-<br><br>
+<br>
 
 <img src="https://github.com/clay-curry/clay-curry/blob/main/edge-bundling.png" alt="Reducing visual clutter of adjacency graph via hierarchical edge bundling." width="500" />
-(could this be used to truly optimal bundlers?)
+
+(can we rearrange chunks to maximize cache hits between iterations?)
+
 
 <br><br>
 
 
-Contrast between the graphical structure of a render-tree (how engines "think") and module dependency tree (how developers "think") in React. (image from [Understanding Your UI as a Tree](https://react.dev/learn/understanding-your-ui-as-a-tree))
+Contrast render-trees (how engines "think") and module dependency trees (how developers "think")
 
-<br><br>
+
+<br>
 
 <img src="https://github.com/clay-curry/clay-curry/blob/main/render-tree.png" alt="Render Tree" width="500" />
 <img src="https://github.com/clay-curry/clay-curry/blob/main/dependency-tree.png" alt="Dependency Tree" width="500" />
 
-Let's solve it together!
+(image from [Understanding Your UI as a Tree](https://react.dev/learn/understanding-your-ui-as-a-tree))
 
-#### below
--->
+<br><br>
 
+Neighborhoods of dependencies.
+
+<br>
+
+<img src="https://github.com/clay-curry/clay-curry/blob/main/Tree_graph.png" alt="tree" />
 
