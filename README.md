@@ -1,6 +1,6 @@
 ## me
 
-- Portfolio: [claycurry.com](https://claycurry.com)
+- B.S. Computer Science, University of Oklahoma
 
 - Interests: algorithms, graph theory, modular / systems programming, dynamic optimality, and human computer interaction.
 
