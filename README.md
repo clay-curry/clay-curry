@@ -2,7 +2,7 @@
 
 - B.S. Computer Science, University of Oklahoma
 
-- Interests: algorithms, graph theory, modular / systems programming, dynamic optimality, and human computer interaction.
+- Interests: modular programming, dynamic optimality, and human computer interaction.
 
 <!--
 > To me, error analysis is the sweet spot for improvement.
@@ -44,7 +44,6 @@ Source code generation tools: Automatic programming#Implementations
 Static code analysis: lint, List of tools for static code analysis
 Unit testing: List of unit testing frameworks
 IDEs
--->
 
 
 ## Art
@@ -89,3 +88,5 @@ Neighborhoods of dependencies.
 
 <img src="https://github.com/clay-curry/clay-curry/blob/main/Tree_graph.png" alt="tree" />
 
+
+-->
