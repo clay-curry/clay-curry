@@ -6,7 +6,14 @@
   - the secret sauce 
   - (full-paying-customer, not endorsed, not seeking it)
 
-- Interests: the customer, DX, frontend cloud, engineering runtimes
+- Interests:
+  - the customer (always comes first lol),
+  - the frontend cloud,
+  - developer relations,
+  - building in the open,
+  - framework design,
+  - the backend cloud,
+  - giving back to open source
 
 <!--
 
