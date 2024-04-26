@@ -6,7 +6,7 @@
   - the secret sauce 
   - (full-paying-customer, not endorsed, not seeking it)
 
-- Interests: functional programming, modular programming, static module bundlers, and debugging / optimizing tools
+- Interests: the customer, DX, frontend cloud, engineering runtimes
 
 <!--
 
