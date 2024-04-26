@@ -1,10 +1,24 @@
 ## me
 
 - B.S. Computer Science, University of Oklahoma
+  - the fundamentals
+- daily user, [Frontend Masters](https://frontendmasters.com/)
+  - the secret sauce 
+  - (full-paying-customer, not endorsed, not seeking it)
 
-- Interests: modular programming, dynamic optimality, and human computer interaction.
+- Interests: functional programming, modular programming, static module bundlers, and debugging / optimizing tools
 
 <!--
+
+- Interests:
+  - modular programming (CSM, ESM),
+  - functional programming (redux, react compiler),
+  - monorepos (nx, Turborepo)
+  - static module bundlers (Rspack, webpack, Turbopack, Rollup, Vite),
+  - linting observability (programs, hot modules)
+ 
+
+
 > To me, error analysis is the sweet spot for improvement.
 
 > In my opinion, no single design is apt to be optimal for everyone.
