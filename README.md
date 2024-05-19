@@ -1,17 +1,5 @@
 ## me
 
-- B.S. Computer Science, University of Oklahoma
-  - the fundamentals
-- daily user, [Frontend Masters](https://frontendmasters.com/)
-  - the secret sauce 
-  - (full-paying-customer, not endorsed, not seeking it)
-
-- Interests:
-  - the customer (always comes first lol),
-  - building in the open,
-  - framework design,
-  - the backend cloud,
-  - giving back to open source
 
 <!--
 
