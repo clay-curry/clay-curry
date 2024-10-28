@@ -4,7 +4,7 @@ im an average computer programmer from the average place of [Oklahoma City](http
 
 are you building something cool (measured in stars, users, engagement) together? looking for a teammate? [email me](mailto:me@claycurry.com) (please)!
 
-i value connection, learning opportunities, and any recognized [currency](https://en.wikipedia.org/wiki/List_of_circulating_currencies) (any listed).
+i value personal connections, learning opportunities, and any recognized [currency](https://en.wikipedia.org/wiki/List_of_circulating_currencies) (any listed) in that order.
 
 <!--
 
