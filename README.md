@@ -2,7 +2,7 @@
 
 im an average computer programmer from the average place of [Oklahoma City](https://www.visitokc.com) with an unusual connection to tooling, history of technology, applied statistics, and human computer interaction. usually some combination of these will decide how I use my time and energy. whenever my terminal is closed, people around me generally find me funny and easy to deeply connect with. otherwise, i'm locked in. 
 
-are you building something cool (measured in stars, users, engagement) together? looking for a teammate? email me (please)!
+are you building something cool (measured in stars, users, engagement) together? looking for a teammate? [email me](mailto:me@claycurry.com) (please)!
 
 i value connection, learning opportunities, and any recognized [currency](https://en.wikipedia.org/wiki/List_of_circulating_currencies) (any listed).
 
