@@ -1,5 +1,6 @@
 ## me
 
+im an average computer programmer with an unusual connection to tooling, history of technology, applied statistics, and human computer interaction. usually some combination of these will decide how I use my time and energy. whenever my terminal is closed, people say laid back and funny. otherwise, i'm locked in.
 
 <!--
 
