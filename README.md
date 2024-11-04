@@ -1,7 +1,6 @@
 ## me
 
-im a software engineer from [Oklahoma City](https://www.visitokc.com) with an unusual connection to tooling, history of technology, applied statistics, and human computer interaction. usually some combination of these will decide how I use my time and energy. 
-
+i simplify computer code sometimes
 
 <!--
 
