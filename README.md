@@ -1,6 +1,8 @@
 ## me
 
-im an average computer programmer from the average place of [Oklahoma City](https://www.visitokc.com) with an unusual connection to tooling, history of technology, applied statistics, and human computer interaction. usually some combination of these will decide how I use my time and energy. 
+im a software engineer from [Oklahoma City](https://www.visitokc.com) with an unusual connection to tooling, history of technology, applied statistics, and human computer interaction. usually some combination of these will decide how I use my time and energy. 
+
+
 <!--
 
 - Interests:
@@ -10,6 +12,7 @@ im an average computer programmer from the average place of [Oklahoma City](http
   - static module bundlers (Rspack, webpack, Turbopack, Rollup, Vite),
   - linting observability (programs, hot modules)
  
+
 
 
 > To me, error analysis is the sweet spot for improvement.
