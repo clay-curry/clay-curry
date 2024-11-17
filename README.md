@@ -1,6 +1,6 @@
 ## me
 
-i simplify computer code sometimes
+i break computers sometimes
 
 <!--
 
