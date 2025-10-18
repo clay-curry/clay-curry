@@ -1,6 +1,6 @@
 ## me
 
-i break computers sometimes
+i turn coffee into compiler errors
 
 <!--
 
