@@ -1,5 +1,4 @@
-## me
-
+linkedin: https://www.linkedin.com/in/clay-curry/
 
 
 <!--
