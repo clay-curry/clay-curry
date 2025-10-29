@@ -1,5 +1,7 @@
 email: [me@claycurry.com](mailto:me@claycurry.com)
+
 domain: https://www.claycurry.com/
+
 linkedin: https://www.linkedin.com/in/clay-curry/
 
 
