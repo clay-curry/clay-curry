@@ -1,6 +1,6 @@
-email: [me@claycurry.com](mailto:me@claycurry.com)
+dns: https://www.claycurry.com/
 
-domain: https://www.claycurry.com/
+email: [me@claycurry.com](mailto:me@claycurry.com)
 
 linkedin: https://www.linkedin.com/in/clay-curry/
 
