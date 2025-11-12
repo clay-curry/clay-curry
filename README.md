@@ -1,4 +1,4 @@
-dns: https://www.claycurry.com/
+https: https://www.claycurry.com/
 
 email: [me@claycurry.com](mailto:me@claycurry.com)
 
