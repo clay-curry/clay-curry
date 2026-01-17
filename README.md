@@ -1,10 +1,62 @@
-email: [me@claycurry.com](mailto:me@claycurry.com)
+<!-- 
 
-website: https://www.claycurry.com/
+## Hi, I'm Clay 👋
 
-linkedin: https://www.linkedin.com/in/clay-curry/
+![Claude](https://img.shields.io/badge/-Claude-cc785c?style=flat&logo=anthropic&logoColor=white) 
+
+<a href="https://x.com/yourusername">
+  <img src="https://about.x.com/content/dam/about-twitter/x/large-x-logo.png.twimg.1920.png" height="10" width="10" alt="X Logo">
+</a>
 
 
+[LinkedIn](https://linkedin.com/in/clay-curry)
+
+🤖 Software Engineer.
+
+**San Francisco, CA** · [claycurry.com](https://claycurry.com)· 
+ · 
+
+===
+
+I am a product-driven  
+
+
+un
+
+
+involves turning a business vision
+
+aiming to surround myself.
+
+
+
+
+to find new (and old) ways to be to my peeros, while bringing a sense of humor 
+
+My favorite role
+
+I enjoy creating turning ,
+
+
+
+is  into a functional and user-friendly but at the same time attractive
+
+I see my role =a
+
+
+
+
+I've worked with enough web technologies to see thoguh
+
+
+including React, Next.js, Node.js, and modern cloud platforms.
+
+
+
+
+
+website or application so that it . My aim is to bring across your message and identity in the most creative way. 
+-->
 <!--
 
 - Interests:
