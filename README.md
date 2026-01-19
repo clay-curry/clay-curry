@@ -1,6 +1,59 @@
+# Hi, I'm Clay
+
+My name is Clay! I am a software engineer, specializing in backend systems and build automation tooling. I created my GitHub account 6 years ago and stayed for the (not actually free) tools, guides, examples, and creative sport.
+
+
+
+
 <!-- 
 
-## Hi, I'm Clay 👋
+* to submit a homework assignment
+
+
+* your worst enemy will always be time – not the economy,  
+
+* https://ossinsight.io/ - watch trends 
+* 
+
+
+My own are few short bullets about me.
+
+
+* 2026 is to earn 100 stars building a project of my own. using purely organic means
+* API documentation and some fun programming/game projects on GitHub.
+* Leveling up my programming skills would make the journey more meaningful to me. I hope to learn more theory, so I can easily adapt to any type of projects. I also want to contribute to more open-source projects.
+* My severance is soon coming to an end, and I am looking for a new job.
+
+
+
+
+
+https://ossinsight.io/
+
+
+
+
+I for 
+
+My former team was impacted by a recent headcount reduction.
+
+
+
+
+ 
+
+
+💻 Tools are primarily Python, Typescript, modern web frameworks, and talking to databases and caches.
+
+🌱 My complex problems into simple, beautiful and intuitive solutions.
+
+🧠 I am a huge admirer of clear code, effective documentations, good abstrations. 
+
+📫 Open to collaboration and growth opportunities
+
+Feel free to explore my projects — feedback is always welcome.
+
+
 
 ![Claude](https://img.shields.io/badge/-Claude-cc785c?style=flat&logo=anthropic&logoColor=white) 
 
@@ -18,7 +71,7 @@
 
 ===
 
-I am a product-driven  
+
 
 
 un
