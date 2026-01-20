@@ -1,22 +1,114 @@
-# Hi, I'm Clay
+# howdy
 
-My name is Clay! I am a software engineer, specializing in backend systems and build automation tooling. I created my GitHub account 6 years ago and stayed for the (not actually free) tools, guides, examples, and creative sport.
-
-
-
-
+welcome to my GitHub profile. i'll keep it short.
 <!-- 
 
-* to submit a homework assignment
+# howdy
+
+welcome to my GitHub profile. i'll keep it short.
+
+done. 
+
+<details>
+  <summary>Click for Q/A</summary>
+
+ - income?:
+   - previously: code-monkey (never again), full-time, Amazon
+   - now: severance, a few more weeks
+   - soon: savings, not very long
+
+ - sad?:
+   - no
+ 
+ - hobbies?:
+   - building people
+ 
+</details>
+
+
+
+
+ - when your
+ - I do not easily adapt to any type of project.
+
+ 
+
+- projects: only from mid-, late-college, the portfolio is just to keep the lights running. 
+
+- 
+
+
+
+
+
+- what are you up to?
+
+ - lately, 
+
+
+
+- interests: im single, 26, give more than i receive (sometimes a
+-    
+
+
+
+ I
+
+
+
+
+- I adapt exceedingly well 
+- I also want to contribute to more open-source projects.
+
+
+
+* want to learn about me?
+* want to work together async on something?
+
+
+it does not contain much, unfortunately.
+
+
+are you looking to learn about my life? 
+
+want to learn about my work?
+
+
+
+wanting to work something together? 
+
+
+
+what i've been up to:
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=clay-curry&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
+
+
+
+specializing in backend systems and build automation tooling. I created my GitHub account 6 years ago and stayed for the (not actually free) tools, guides, examples, and creative sport.
+
+
+* 
 
 
 * your worst enemy will always be time – not the economy,  
 
 * https://ossinsight.io/ - watch trends 
 * 
-
-
-My own are few short bullets about me.
 
 
 * 2026 is to earn 100 stars building a project of my own. using purely organic means
@@ -41,17 +133,6 @@ My former team was impacted by a recent headcount reduction.
 
 
  
-
-
-💻 Tools are primarily Python, Typescript, modern web frameworks, and talking to databases and caches.
-
-🌱 My complex problems into simple, beautiful and intuitive solutions.
-
-🧠 I am a huge admirer of clear code, effective documentations, good abstrations. 
-
-📫 Open to collaboration and growth opportunities
-
-Feel free to explore my projects — feedback is always welcome.
 
 
 
