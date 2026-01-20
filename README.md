@@ -1,6 +1,6 @@
 # howdy
 
-welcome to my GitHub profile. i'll keep it short.
+welcome to my GitHub profile.
 <!-- 
 
 # howdy
