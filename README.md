@@ -1,6 +1,6 @@
 # howdy
 
-welcome to my GitHub profile. to learn more about me, visit [my portfolio](https://www.claycurry.com/g).
+welcome to my GitHub profile. visit [my portfolio](https://www.claycurry.com/g) to learn more about me.
 <!-- 
 
 # howdy
