@@ -13,26 +13,9 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-> I am a recovering "big-tech" SDE now building in the open. 
->
-> Here's a few random facts about me:
-> - **first promotion**: without asking, I got my first progamming-related promotion at 16, at my municipal swimming pool, after transferring payroll deduction requirements into "auto-fill ready" Excel functions + 1 macro.
->   - it turned out, my "dumb bandaid" stopped a recurring HR escalation by reducing a 1.5 week-long process to a 90 minute process
->
-> - **niche stuff**: at Amazon, I worked on reccomendation engines powering core shopping business verticals. this means:
->   1. i worked on the "bookstore" side of Amazon - not the data centers, supply chains, prime video, order fulfullment side.
->   2. in the bookstore, my whole job reduced to 'anything that converts customers who see orange button with "Buy Now" call-to-action, convert into users who will click the orange button'.
->   3. i contributed to systems so legacy that a few of my Code Reviews (Pull Requests) triggered pages to folk who've been "Amazon engineers" longer than I was born (in 1999)
->   5. e-commerce  encountered at the very "bottom" of the user funnel, the engines that convert page visitors into actual units sold (clicks to "Buy Now")
->
-> - **technical spike**: i began programming for business applications at 15. 
-> -
-> -   but I became a programmer. spiders for work, for research, and for leisure. Each one achieved very different indexing requirements, using very different protocols, integrations, programming languages.  
->
-> Learning this way helped me become a real programmer – one that recognizes some problems are just fucking hard but there is always more to learn. Wanna index some cool shit? Drop a note to me on [X](https://x.com/clay__curry)!
-> 
->
-> 
+> I am a recovering "big-tech" engineer obsessed with customers and growing my spike. I enjoy building in public because
+> visibility generates feedback, and feedback generates signal required to quantify impact.
+
 
 ## Current Projects
 
@@ -86,10 +69,7 @@
 <details>
 <summary>Random Facts</summary>
 
-- 🏳️‍🌈
 - Sponsoring [@shadcn](https://github.com/shadcn) and [@biomejs](https://github.com/biomejs)
-- Gym 4x/week ([I wrote about it](https://claycurry.com/blog/my-workout-routine))
-- Mass-bookmarker on X — hence the project
-- Arctic Code Vault Contributor
+- Bookmark X — hence the project
 
 </details>
