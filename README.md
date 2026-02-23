@@ -13,21 +13,20 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-> I am a recovering "big-tech" engineer obsessed with customers and growing my spike. I enjoy building in public because
+> I am a recovering Amazon engineer obsessed with customers and growing my spike. I enjoy building in public because
 > visibility generates feedback, and feedback generates signal required to quantify impact.
 
 
 ## Current Projects
 
 - 🌐 **[claycurry.com](https://github.com/clay-curry/claycurry.com)** - My portfolio & blog — Next.js 16, MDX, AI chat, TRON-inspired design system
-- 𝕏 **[X Bookmarks](https://claycurry.com/work/x-bookmarks)** - A better way to browse, search, and sort my X bookmarks
+- 𝕏 **[X Bookmarks](https://claycurry.com/work/x-bookmarks)** - A better way to browse, search, and sort X bookmarks
 - 🔗 **[next-validate-link](https://github.com/clay-curry/next-validate-link)** - Broken link checker for Markdown — crawl, validate, done
 
 ### Past Work
 
 - 📡 **[adsb-firehose](https://github.com/clay-curry/adsb-firehose)** - Real-time data feed of global aircraft ADS-B positional data
-- 🐦 **[flapPy-RL](https://github.com/clay-curry/flapPy-RL)** - Q-learning agent that plays Flappy Bird
-- 📐 **[abstract-algebra-in-LaTeX](https://github.com/clay-curry/abstract-algebra-in-LaTeX)** - Notes and exercises in abstract algebra and linear algebra
+- 🐦 **[flapPy-RL](https://github.com/clay-curry/flapPy-RL)** - Q-learning-based reinforcement learning agent that plays Flappy Bird
 
 ## GitHub Activity
 
