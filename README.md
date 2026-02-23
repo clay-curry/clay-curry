@@ -1,6 +1,6 @@
-# Hi, I'm Clay 👋
+# I'm Clay
 
-[claycurry.com](https://claycurry.com) | 📍 **Palo Alto, CA** | 🤖 **Software Engineer** | 🎓 **OU CS '23** | ☁️ **AWS SA Pro**
+🌐 [claycurry.com](https://claycurry.com) | 📍 **Palo Alto, CA** | 🤖 **Software Engineer** | 🎓 **OU CS '23** | ☁️ **AWS SA Pro**
 
 > I am a recovering Amazon engineer obsessed with customers and growing my spike. I enjoy building in public because
 > visibility generates feedback, and feedback generates signal required to quantify impact.
@@ -8,7 +8,6 @@
 
 ## Current Projects
 
-- 🌐 **[claycurry.com](https://github.com/clay-curry/claycurry.com)** - My portfolio & blog — Next.js 16, MDX, AI chat, TRON-inspired design system
 - 𝕏 **[X Bookmarks](https://claycurry.com/work/x-bookmarks)** - A better way to browse, search, and sort X bookmarks
 - 🔗 **[next-validate-link](https://github.com/clay-curry/next-validate-link)** - Broken link checker for Markdown — crawl, validate, done
 
